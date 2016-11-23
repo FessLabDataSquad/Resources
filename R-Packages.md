@@ -13,3 +13,7 @@ This link provides a good description/instruction for some of the main functions
 4. summarise(): performs initial summary statistics
 5. arrange(): order variable values in ascending or descending order
 6. join(): joins two datasets together (see: http://stat545.com/bit001_dplyr-cheatsheet.html)
+
+----
+### https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
+This is a cheatsheet for common functions in tidyr and dplyr.
