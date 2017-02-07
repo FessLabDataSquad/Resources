@@ -2,6 +2,7 @@
 https://www.datacamp.com/courses/free-introduction-to-r 
 * Alexis: You type R code to solve the exercises. When you hit the 'Submit Answer' button, every line of code is interpreted and executed by R and you get a message whether or not your code was correct. 
 * It helps teach you how to assign variables names, create vectors, etc.
+* free
 
 
 ----
